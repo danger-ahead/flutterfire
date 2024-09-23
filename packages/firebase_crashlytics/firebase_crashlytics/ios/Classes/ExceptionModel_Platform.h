@@ -18,7 +18,7 @@
 //  Crashlytics
 //
 
-#import <Firebase/Firebase.h>
+@import FirebaseMessaging;
 
 @interface FIRExceptionModel (Platform)
 
